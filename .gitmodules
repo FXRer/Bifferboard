@@ -1,0 +1,6 @@
+[submodule "bb"]
+	path = bb
+	url = https://github.com/bifferos/bb.git
+[submodule "buildroot-bifferboard"]
+	path = buildroot-bifferboard
+	url = https://github.com/obaltzer/buildroot-bifferboard.git
